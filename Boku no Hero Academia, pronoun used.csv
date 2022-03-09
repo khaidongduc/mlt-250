@@ -1,0 +1,88 @@
+Episode,Character,Used Pronoun,Pronoun Rerfering To,In Conversation With,Type of Pronoun,Timestamp,Notes
+6,Bakugo,temee,Midoriya,Midoriya,second-person,2:59,
+6,Midoriya,boku,Midoriya,Bakugo,first-person,4:00,flashback
+6,Bakugo,ore,Bakugo,Midoriya,first-person,4:04,flashback
+6,Midoriya,boku,Midoriya,Bakugo,first-person,6:04,
+6,Bakugo,temee,Midoriya,Midoriya,second-person,8:45,flashback
+6,Midoriya,boku,Midoriya,Bakugo,first-person,13:58,
+6,Bakugo,ore,Bakugo,Midoriya,first-person,18:00,
+6,Midoriya,boku,Midoriya,Bakugo,first-person,20:12,
+6,Midoriya,boku,Midoriya,Bakugo,first-person,22:01,
+7,Midoriya,boku,Midoriya,Bakugo,first-person,3:09,
+7,Midoriya,boku,Midoriya,Bakugo,first-person,3:34,flashback telling voice
+7,Bakugo,ore,Bakugo,Midoriya,first-person,6:44,
+7,Bakugo,ore,Bakugo,Midoriya,first-person,7:00,
+7,Midoriya,boku,Midoriya,Bakugo,first-person,7:27,
+7,Midoriya,boku,Midoriya,Bakugo,first-person,8:03,
+7,Midoriya,boku,Midoriya,Bakugo,first-person,8:28,flashback
+7,Bakugo,omae,Midoriya,Midoriya,second-person,9:03,flashback
+7,Bakugo,ore,Bakugo,Midoriya,first-person,9:58,flashback
+7,Midoriya,boku,Midoriya,Bakugo,first-person,10:11,flashback
+7,Bakugo,ore,Bakugo,Midoriya,first-person,10:15,flashback
+7,Bakugo,ore,Bakugo,Midoriya,first-person,11:29,
+7,Bakugo,ore,Bakugo,Midoriya,first-person,11:30,
+7,Midoriya,kimi,Bakugo,Bakugo,second-person,13:35,
+7,Midoriya,kimi,Bakugo,Bakugo,second-person,13:41,
+7,Bakugo,temee,Midoriya,Midoriya,second-person,14:53,
+7,Bakugo,temee,Midoriya,Midoriya,second-person,17:56,
+7,Bakugo,temee,Midoriya,Midoriya,second-person,18:04,
+7,Bakugo,ore,Bakugo,Midoriya,first-person,18:05,
+7,Bakugo,ore,Bakugo,Midoriya,first-person,19:10,
+7,Bakugo,temee,Midoriya,Midoriya,second-person,19:20,
+7,Midoriya,kimi,Bakugo,Bakugo,second-person,19:29,
+7,Midoriya,kimi,Bakugo,Bakugo,second-person,19:32,
+8,Midoriya,kimi,Bakugo,Bakugo,second-person,4:29,flashback
+8,Midoriya,boku,Midoriya,Bakugo,first-person,15:09,flashback
+8,Midoriya,boku,Midoriya,Uraraka,first-person,17:20,
+8,Bakugo,ore,Bakugo,Midoriya,first-person,17:38,flashback
+8,Midoriya,kimi,Bakugo,Bakugo,second-person,18:17,
+8,Midoriya,kimi,Bakugo,Bakugo,second-person,18:46,
+8,Midoriya,boku,Midoriya,Bakugo,first-person,18:55,
+8,Midoriya,boku,Midoriya,Bakugo,first-person,19:09,
+8,Midoriya,boku,Midoriya,Midoriya,first-person,19:09,self-talk
+8,Midoriya,boku,Midoriya,Bakugo,first-person,19:18,
+8,Bakugo,ore,Bakugo,Midoriya,first-person,19:37,
+8,Bakugo,temee,Midoriya,Midoriya,second-person,19:37,
+8,Bakugo,temee,Midoriya,Midoriya,second-person,20:06,
+8,Bakugo,ore,Bakugo,Midoriya,first-person,20:10,
+8,Bakugo,ore,Bakugo,Midoriya,first-person,20:14,
+8,Bakugo,ore,Bakugo,All Might,first-person,20:58,
+9,Midoriya,boku,Midoriya,press,first-person,1:47,
+9,Bakugo,ore,Bakugo,class,first-person,4:55,
+9,Midoriya,kimi,Ilda,Ilda,second-person,7:13,
+9,Midoriya,boku,Midoriya,Midoriya,first-person,8:45,self-talk
+9,Midoriya,boku,Midoriya,class,first-person,12:13,
+9,Midoriya,boku,Midoriya,Tsu,first-person,17:25,
+9,Midoriya,boku,Midoriya,Kirishima,first-person,17:43,
+9,Bakugo,temee,Kaminari,Kaminari,second-person,18:20,
+10,Kurogiri,watashi,Kurogiri,class,first-person,6:15,
+10,Kurogiri,watashi,Kurogiri,class,first-person,6:45,
+10,Kurogiri,anata,class,class,second-person,6:47,
+10,Midoriya,boku,Midoriya,Tsu and Mineta,first-person,10:41,
+11,Midoriya,watashi,Midoriya,Tsu and Mineta,first-person,3:40,
+11,Midoriya,boku,Midoriya,Tsu and Mineta,first-person,4:20,
+11,Tomura,kimi,Aizawa,Aizawa,second-person,10:39,
+11,Kurogiri,anata,Thirteen,Thirteen,second-person,11:38,
+11,Bakugo,ore,Bakugo,Kirishima,first-person,14:37,
+11,Bakugo,ore,Bakugo,Kirishima,first-person,15:17,
+11,Tomura,omae,Kurogiri,Kurogiri,second-person,18:31,
+11,Tomura,kimi,Midoriya,Midoriya,second-person,21:17,
+12,Midoriya,boku,Midoriya,Midoriya,first-person,7:17,self-talk
+12,Midoriya,boku,Midoriya,Midoriya,first-person,8:05,self-talk
+12,Tomura,omae,All Might,All Might,second-person,9:15,
+12,Kurogiri,watashi,Kurogiri,All Might,first-person,9:54,
+12,Kurogiri,anata,All Might,All Might,second-person,10:00,
+12,Kurogiri,watashi,Kutogiri,All Might,first-person,10:19,
+12,Midoriya,anata,All Might,Midoriya,second-person,10:42,self-talk
+12,Bakugo,ore,Bakugo,Kurogiri,first-person,13:58,
+12,Tomura,omae,All Might,All Might,second-person,14:51,
+12,Tomura,ore,Tomura,All Might,first-person,16:28,
+12,Tomura,omae,All Might,All Might,second-person,16:46,
+12,Tomura,omae,All Might,All Might,second-person,16:51,
+12,Tomura,ore,Tomura,Nomu and Kurogiri,first-person,17:58,
+13,Tomura,ore,Tomura,Tomura,first-person,5:00,self-talk
+13,Kurogiri,anata,Tomura,Tomura,second-person,6:49,
+13,Kurogiri,watashi,Kurogiri,Tomura,first-person,6:50,
+13,Midoriya,boku,Midoriya,Midoriya,first-person,7:24,self-talk
+13,Midoriya,boku,Midoriya,Midoriya,first-person,11:04,self-talk
+13,Midoriya,boku,Midoriya,Midoriya,first-person,23:22,self-talk
